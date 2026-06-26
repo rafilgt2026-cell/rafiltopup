@@ -1,8 +1,0 @@
-body{margin:0;font-family:Arial;background:#0f172a;color:white}
-header{text-align:center;padding:30px;background:#2563eb}
-.games,.order,.pay,.group{padding:20px;max-width:800px;margin:auto}
-.grid{display:grid;grid-template-columns:repeat(2,1fr);gap:10px}
-.card{background:#1e293b;padding:15px;border-radius:10px;text-align:center}
-input,select{width:100%;padding:10px;margin:5px 0}
-button{width:100%;padding:12px;background:#22c55e;border:none;color:white;font-size:16px}
-a{color:#22c55e;font-weight:bold}
